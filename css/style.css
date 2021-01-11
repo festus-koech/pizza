@@ -1,0 +1,69 @@
+.navbar {
+    background-color: grey;
+  }
+  .container-fluid {
+    background-image: url("/img/ipage.jpeg");
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 20%;
+    font-size: 18px;
+    font-family: "Langar", cursive;
+    font-weight: bold;
+    color: white;
+  }
+  .Table {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: "Redressed", cursive;
+    font-size: 18px;
+    
+  }
+  .card {
+    background-color:grey;
+  
+    
+  }
+  #card {
+    
+  
+    @media screen {
+      min-width: 480px;
+    }
+  }
+  
+  
+  .hidden {
+    display: none;
+  }
+  .container form {
+    background-color:grey;
+    color: white;
+  }
+  nav .navbar-nav li a {
+    color: white !important;
+    font-size: 18px;
+  }
+  #navbarNav:hover link {
+    color: blue;
+  }
+  
+  #contain {
+      background-color: lightblue;
+      color: black;
+      text-align: center;
+      background-repeat: no-repeat;
+      font-family: 'Hanalei Fill', cursive;
+      font-size: 18px;
+  }
+  .container{
+      font-family: 'Fugaz One', cursive;
+  }
+  footer{
+      background-color: grey;
+      height: 2rem;
+      
+  }
+  
